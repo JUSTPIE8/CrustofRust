@@ -1,2 +1,2 @@
 # Crust of Rust
-###Learning Rust 
+Learning Rust 
